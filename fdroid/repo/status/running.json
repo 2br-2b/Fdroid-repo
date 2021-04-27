@@ -2,6 +2,6 @@
   "commandLine": [
     "/usr/bin/fdroid update"
   ],
-  "startTimestamp": 1617776506000,
+  "startTimestamp": 1619502086000,
   "subcommand": "update"
 }
